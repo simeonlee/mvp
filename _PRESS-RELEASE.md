@@ -17,28 +17,32 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Heading ##
-  > Name the product in a way the reader (i.e. your target customers) will understand.
+	Flirter
 
 ## Sub-Heading ##
-  > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+	A new platform for interacting with nearby people in a more controlled way
 
 ## Summary ##
-  > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+	Flirter shows you users who have left geotagged messages in your area and allows you to show your interest by revealing your location and a personalized message. Your location and message won't be revealed to the other person unless they indicate interest in you as well!
+
+	Flirter is a full stack javascript based application using Angular to manage documents, a Mongo database to manage users and an express server to server particular routes. APIs used include Facebook for authentication, Twitter for sample data, and Google Maps API for positional mapping.
 
 ## Problem ##
-  > Describe the problem your product solves.
+	Getting tired of swiping through a pool of unfiltered results sorted soley by proximity gets tiring. This is 2016 - online dating will only proliferate further than it already has, so let's create the right tools to help you meet your match!
 
 ## Solution ##
-  > Describe how your product elegantly solves the problem.
+	Flirter wades through the pool of eligible candidates in your area so that you know precisely how far you'll have to venture to meet that special someone
 
 ## Quote from You ##
-  > A quote from a spokesperson in your company.
+	"We aim to push the boundaries of digital networking and socialisation by building tools that allow you to really customize the way you put yourself out there in safe, proactive ways that also help the environment" - Akai Senghor
 
 ## How to Get Started ##
-  > Describe how easy it is to get started.
+	Just go to flirter and pick your gender to see matches in your area! You'll have to authenticate / create an account to actually reach out, but that is as simple as one click!
 
 ## Customer Quote ##
-  > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+	"Wow, I've never walked so little in my life" - Connor Chevli
+	"I don't get it" - Chris Picato
+	"You actually go on online dates?" - Wendy Cheung
 
 ## Closing and Call to Action ##
-  > Wrap it up and give pointers where the reader should go next.
+	Go to www.flirter.io to experience our app for yourself!
